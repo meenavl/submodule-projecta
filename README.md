@@ -1,2 +1,2 @@
 # submodule-projecta
-submodule projecta
+submodule projecta test
