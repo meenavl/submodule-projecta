@@ -1,6 +1,8 @@
 [submodule "proja"]
 	path = proja
 	url = https://github.com/meenavl/test-projecta.git
+	branch = develop
 [submodule "projb"]
 	path = projb
 	url = https://github.com/meenavl/test-projectb.git
+	branch = develop
